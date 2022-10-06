@@ -1,5 +1,5 @@
 Chào mừng đã đến với trang github của tôi!
-# I. Những sản phẩm
+# I. Những sản phẩm đã thực hiện
 ## 1. Đồ án tốt nghiệp: Xây dựng WebApp quản lý điểm rèn luyện tại Phân hiệu Đại học Đà Nẵng tại Kon Tum.
 Nhận thấy nhà trường công tác quản lý và chấm điểm rèn luyện tại Phân hiệu vẫn còn hạn chế, WebApp **"Quản lý điểm rèn luyện tại Phân hiệu Đại học Đà Nẵng tại Kon Tum"** được xây dựng nhằm giúp nhà trường có được một công cụ hỗ trợ cho các tổ Phòng ban trong nhà trường quản lý được các hoạt động, vi phạm và khen thưởng của sinh viên mỗi học kỳ một cách đồng bộ và dễ dàng. Ngoài ra, WebApp còn có chức năng tự động tính điểm rèn luyện của toàn bộ sinh viên dựa tuỳ vào tiêu chí chấm điểm mỗi học kỳ của nhà trường. Sinh viên có thể hoàn toàn truy cập và theo dỗi được điểm rèn luyện cá nhân trên hệ thống.
 #### Các công nghệ được sử dụng
