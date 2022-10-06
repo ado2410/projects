@@ -76,14 +76,12 @@ https://www.facebook.com/kontum.udn.vn/posts/pfbid05Df6aWe3mgmiNgScxRuN82tpKCDuV
 - [Thông báo ngày hội Văn hoá đọc](https://www.facebook.com/kontum.udn.vn/posts/pfbid0qVBpKETXjrpgPfvD7EFT8ewY6Z54CrPEESW1qD6vL4HVz46e2Ar4gsD3U4MVs1EFl)
 - [Công bố giải thưởng](https://www.facebook.com/kontum.udn.vn/posts/pfbid05zS8xqikF3gwiamwwPv8PJwiFtUCWPF2fcqX47egSCZXAVTo952rGyK5pwST3B9El)
 <br/>*Ảnh học giấy chứng nhận*
-Ảnh giấy chứng nhận
 ### Tham gia cuộc thi Sáng tạo mô hình kiến trúc công trình sinh thái
 - [Thông báo tổ chức đêm chung kết và lễ trao giải](https://www.facebook.com/kontum.udn.vn/posts/pfbid0vbhA4iCk6xTW2EYBe5eozLRSbZP18TLEf2wqaaV6zLnmF29j5TmZ2LrgErddyLwel)
 - [Công bố kết quả sơ khảo](https://www.facebook.com/khoacongnghe.udck/posts/pfbid02iU3wBhYfBdBdotectgGqcxPH7jR3xNSTHg8eawjyorEASDomnoqkvD1h4Y1DpSXZl)
 - [Chúc mừng nhóm đã xuất sắc đạt giải nhất](https://www.facebook.com/kontum.udn.vn/posts/pfbid0ix7t31QuD4Hw9AXFdV9zZfaqr5DxpRkzeTdrNJaRYfCRsUfbtd1cyDBxBgabCNszl)
 - [Quán quân cuộc thi](https://www.facebook.com/khoacongnghe.udck/posts/pfbid02Chf6Nh4FgPRpZhUWW8xfiW3ZFxListJbCkXrDzXkyD9F8BjMLX3RLDthuw7nCUVEl)
 <br/>*Ảnh học giấy chứng nhận*
-Ảnh giấy chứng nhận
 ### Tham gia cuộc thi Ánh sáng soi đường tỉnh Kon Tum năm 2021
 [Lễ trao giải cuộc thi Ánh sáng soi đường](https://www.facebook.com/kontum.udn.vn/posts/pfbid0qVqpcSzBJqUHAuWew9XZuhav3B7g3td8r9LsKhLYNVPG8PwD3RiNpNEePKGbrZpGl)
 <br/>*Ảnh học giấy chứng nhận*
