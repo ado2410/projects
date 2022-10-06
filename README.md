@@ -51,7 +51,7 @@ https://www.facebook.com/kontum.udn.vn/posts/pfbid05Df6aWe3mgmiNgScxRuN82tpKCDuV
 - React App: [Realtime Chat](https://github.com/jennydo2000/realtime-chat)
 - Figma: [MessMusic - Nghe nhạc nhắn tin](https://www.figma.com/proto/4oDZr0dxV574mUzayIlPDW/DHDTT)
 - Python: [Nhận diện giới tính](https://github.com/jennydo2000/gender-detection) (Chưa cập nhật)
-# II. Các kỹ năng
+# II. Các kỹ năng (Đang cập nhật)
 ### Ngôn ngữ lập trình
 ### Quản lý cơ sở dữ liệu
 ### Tiếng anh
