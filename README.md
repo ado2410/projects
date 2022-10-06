@@ -39,10 +39,10 @@ https://www.facebook.com/kontum.udn.vn/posts/pfbid05Df6aWe3mgmiNgScxRuN82tpKCDuV
 
 #### Các công nghệ được sử dụng
 - Mô hình thiết kế: MVC
-- Nển tảng sử dụng: Composer
-- Backend (Server): PHP, 
-- Frontend (Client): React
-#### Một số chức năng chính của hệ thống
+- Nển tảng sử dụng: [Composer](https://getcomposer.org/)
+- Backend (Server): [PHP](https://www.php.net/), 
+- Frontend (Client): [React](https://reactjs.org/)
+#### Một số chức năng chính của hệ thống (Đang cập nhật)
 #### Một số hình ảnh Demo (Đang cập nhật)
 => [Xem chi tiết sản phẩm](https://github.com/jennydo2000/Laravel-DoAnPhanMem1)
 ## 4. Một số sản phẩm khác
