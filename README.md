@@ -30,9 +30,9 @@ https://www.facebook.com/kontum.udn.vn/posts/pfbid05Df6aWe3mgmiNgScxRuN82tpKCDuV
 ### Một số sản phẩm khác
 - App Android: [Messenger App](https://github.com/jennydo2000/Android-MessengerApp)
 - App Java: [Quản lý cửa hàng](https://github.com/jennydo2000/TECHSHOP)
-- React App: [Realtime Chat]()
-- Figma: MessMusic
-- Python: Nhận diện giới tính
+- React App: [Realtime Chat](https://github.com/jennydo2000/realtime-chat)
+- Figma: [MessMusic - Nghe nhạc nhắn tin](https://www.figma.com/proto/4oDZr0dxV574mUzayIlPDW/DHDTT)
+- Python: [Nhận diện giới tính](https://github.com/jennydo2000/gender-detection)
 
 ## Các kỹ năng
 
