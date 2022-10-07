@@ -14,7 +14,8 @@ Nhận thấy nhà trường công tác quản lý và chấm điểm rèn luy�
 - Quản lý các nhóm khoa / phòng ban trong việc phân quyền truy cập và quản lý.
 - Cấu hình chấm điểm hệ thống chấm điểm rèn luyện để hệ thống tính toán điểm số rèn luyện phù hợp nhất cho từng học kỳ.
 - Sinh viên được truy cập để theo dõi và in phiếu điểm rèn luyện.
-#### Một số hình ảnh Demo (Đang cập nhật)
+#### Một số hình ảnh Demo
+<img src="https://user-images.githubusercontent.com/15710296/194337924-2d80e351-bef7-4069-99d6-e6c9887b2c95.png" width="25%" /><img src="https://user-images.githubusercontent.com/15710296/194339699-184d9392-3470-40ca-9af9-ade0633fd190.png" width="25%" /><img src="https://user-images.githubusercontent.com/15710296/194339780-5e72a5f1-03e8-48c5-95a4-772a98a565ef.png" width="25%" /><img src="https://user-images.githubusercontent.com/15710296/194339937-134da3e1-110f-4dfe-ba3e-d31e7c75963e.png" width="25%" /><img src="https://user-images.githubusercontent.com/15710296/194339964-6ae12c02-499f-4923-a9f6-0575227ec2f8.png" width="25%" /><img src="https://user-images.githubusercontent.com/15710296/194340073-63fc5ca3-324e-44a9-9261-9d22e41fd1a0.png" width="25%" /><img src="https://user-images.githubusercontent.com/15710296/194340117-856fb137-43da-41b0-84c5-a44a3c53f3d9.png" width="25%" /><img src="https://user-images.githubusercontent.com/15710296/194340134-26a2423f-9489-45ba-b828-bbf43d0f6cc0.png" width="25%" /><img src="https://user-images.githubusercontent.com/15710296/194340200-013aff0f-324b-4c05-8c24-ffa4167dfcad.png" width="25%" /><img src="https://user-images.githubusercontent.com/15710296/194340406-829c7e69-8df7-4e7b-8d3f-2f57435ee6cc.png" width="25%" /><img src="https://user-images.githubusercontent.com/15710296/194340467-6b6909a4-0672-4b7b-92d0-df7357b1f89f.png" width="25%" /><img src="https://user-images.githubusercontent.com/15710296/194340482-2ab258b4-2e06-4125-a986-6fe2df0c04ed.png" width="25%" />
 => [Xem chi tiết sản phẩm](https://github.com/jennydo2000/tp-management)
 ## 2. Đồ án thực tập + Nghiên cứu khoa học: Xây dựng Website giúp quản lý thu nhập của Cán bộ và Giảng viên tại Phân hiệu Đại học Đà Nẵng tại Kon Tum.
 #### Giới thiệu:
@@ -31,7 +32,8 @@ Nhận thấy nhà trường công tác quản lý và chấm điểm rèn luy�
 - Quản lý lương (Xem lương và nhập lương từ file)
 - Thông báo lương cho Cán bộ - Giảng viên
 - Quản lý bài đăng thông báo
-#### Một số hình ảnh Demo (Đang cập nhật)
+#### Một số hình ảnh Demo
+
 => [Xem chi tiết sản phẩm](https://github.com/jennydo2000/salary-management)
 #### References:
 https://www.facebook.com/kontum.udn.vn/posts/pfbid05Df6aWe3mgmiNgScxRuN82tpKCDuV2Nrtn9LNXRt8bXbNnQKekzD4X5ncaMcCSvYl
