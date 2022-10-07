@@ -53,13 +53,7 @@ https://www.facebook.com/kontum.udn.vn/posts/pfbid05Df6aWe3mgmiNgScxRuN82tpKCDuV
 - React App: [Realtime Chat](https://github.com/jennydo2000/realtime-chat)
 - Figma: [MessMusic - Nghe nhạc nhắn tin](https://www.figma.com/proto/4oDZr0dxV574mUzayIlPDW/DHDTT)
 - Python: [Nhận diện giới tính](https://github.com/jennydo2000/gender-detection) (Chưa cập nhật)
-# II. Các kỹ năng (Đang cập nhật)
-### Ngôn ngữ lập trình
-### Quản lý cơ sở dữ liệu
-### Tiếng anh
-### Tự tìm tòi, học hỏi
-### Giải quyết được các vấn đề phát sinh như (bugs) phần mềm và tìm ra hướng giải quyết tốt nhất
-# III. Thành tích và giải thưởng
+# II. Thành tích và giải thưởng
 ### Học bổng khuyến khích học tập
 Bài đăng: [Học bổng khuyến khích học tập học kì 1 năm học 2020 - 2021](https://www.facebook.com/kontum.udn.vn/posts/pfbid0JeSBMjeuyWK3u985nCPx6Fya7bcTVJTjnxBb2KwsH1aAPQtvytn5yWiTuEMuwjs9l)
 ### Học bổng Jesico Asia
@@ -72,7 +66,7 @@ Bài đăng: [Nhóm sinh viên ngành kỹ thuật xây dựng giành giải nh�
 | <img src="https://user-images.githubusercontent.com/15710296/194459785-f71b6dea-8eaf-4c08-b6a2-0481211ba1f2.jpg" height="300" /><img src="https://user-images.githubusercontent.com/15710296/194459791-7093b2a1-52d0-4a94-84ea-20ea2aa83aef.jpg" height="300" /> |
 |:--:|
 | *Ảnh học bổng* |
-# IV. Hoạt động xã hội
+# III. Hoạt động xã hội
 ### Tham gia hoạt động cộng đồng tại Trung tâm bảo trợ và công tác xã hội tỉnh Kon Tum
 - Bài đăng: [Công tác chuẩn bị quà tặng](https://www.facebook.com/khoacongnghe.udck/posts/pfbid02iC77rsiToc26U1GHou636PsrLhDNfoARLeWhm5Nya76tD6N68CQWdmwHANi5KCaPl)
 - Bài đăng: [Tổ chức hoạt động](https://www.facebook.com/khoacongnghe.udck/posts/pfbid02bsAH59SpKamLoyv6qphwSHWUXnCwZYi11XTTkShAKB4HXkdA7EJ8NjUrnteDEYjVl)
