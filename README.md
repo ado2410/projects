@@ -40,14 +40,15 @@ Nhận thấy nhà trường công tác quản lý và chấm điểm rèn luy�
 #### References:
 https://www.facebook.com/kontum.udn.vn/posts/pfbid05Df6aWe3mgmiNgScxRuN82tpKCDuV2Nrtn9LNXRt8bXbNnQKekzD4X5ncaMcCSvYl
 ## 3. Đồ án phần mềm: Xây dựng website quản lý sinh viên
-
+Đây là sản phẩm đầu tay
 #### Các công nghệ được sử dụng
 - Mô hình thiết kế: MVC
 - Nển tảng sử dụng: [Composer](https://getcomposer.org/)
 - Backend (Server): [PHP](https://www.php.net/), 
 - Frontend (Client): [React](https://reactjs.org/)
-#### Một số chức năng chính của hệ thống (Đang cập nhật)
-#### Một số hình ảnh Demo (Đang cập nhật)
+#### Một số hình ảnh Demo
+<img src="https://user-images.githubusercontent.com/15710296/194523822-aa86c1c6-2986-44da-a6e5-1dc4929fa6ae.png" width="25%" /><img src="https://user-images.githubusercontent.com/15710296/194523839-0810b578-c645-4411-8498-5e5b9f867168.png" width="25%" /><img src="https://user-images.githubusercontent.com/15710296/194523852-c3a9d5b2-158d-4477-9c7e-6ad4438a9c4f.png" width="25%" /><img src="https://user-images.githubusercontent.com/15710296/194523995-d22c17a5-9679-4332-b141-8dd3a352d958.png" width="25%" /><img src="https://user-images.githubusercontent.com/15710296/194523768-c82aed43-b25c-4a99-b98b-f2ae1a8cdfc2.png" width="25%" /><img src="https://user-images.githubusercontent.com/15710296/194523796-b747daa9-f382-487a-b667-fd1079bcccac.png" width="25%" /><img src="https://user-images.githubusercontent.com/15710296/194523889-60d8875b-3196-4065-be8c-1539e84aa335.png" width="25%" /><img src="https://user-images.githubusercontent.com/15710296/194523955-87da41a4-a939-46be-9341-4ea9c3e33b7c.png" width="25%" />
+####
 => [Xem chi tiết sản phẩm](https://github.com/jennydo2000/Laravel-DoAnPhanMem1)
 ## 4. Một số sản phẩm khác
 - App Android: [Messenger App](https://github.com/jennydo2000/Android-MessengerApp)
