@@ -52,10 +52,7 @@ https://www.facebook.com/kontum.udn.vn/posts/pfbid05Df6aWe3mgmiNgScxRuN82tpKCDuV
 => [Xem chi tiết sản phẩm](https://github.com/jennydo2000/Laravel-DoAnPhanMem1)
 ## 4. Một số sản phẩm khác
 - App Android: [Messenger App](https://github.com/jennydo2000/Android-MessengerApp)
-- App Java: [Techshop - Quản lý cửa hàng điện tử](https://github.com/jennydo2000/TECHSHOP) (Chưa cập nhật)
-- React App: [Realtime Chat](https://github.com/jennydo2000/realtime-chat) (Chưa cập nhật)
 - Figma: [MessMusic - Nghe nhạc nhắn tin](https://www.figma.com/proto/4oDZr0dxV574mUzayIlPDW/DHDTT)
-- Python: [Nhận diện giới tính](https://github.com/jennydo2000/gender-detection) (Chưa cập nhật)
 # II. Thành tích và giải thưởng
 ### Học bổng khuyến khích học tập
 Bài đăng: [Học bổng khuyến khích học tập học kì 1 năm học 2020 - 2021](https://www.facebook.com/kontum.udn.vn/posts/pfbid0JeSBMjeuyWK3u985nCPx6Fya7bcTVJTjnxBb2KwsH1aAPQtvytn5yWiTuEMuwjs9l)
